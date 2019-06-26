@@ -62,9 +62,6 @@ https://www.ebay.com/itm/IBM-Chinese-Lettering-Keyboard-Typing-102-Keyboard-Lett
 
 -Some good keyboard dicussion groups and keyboard contact creaters:
 *Dicussion*
-1 - https://geekhack.org/index.php?PHPSESSID=lqmg2ap4h7trgpdsgm9stlh10jf7i58d&
-2 - https://www.reddit.com/r/MechanicalKeyboards/
+ https://geekhack.org/index.php?PHPSESSID=lqmg2ap4h7trgpdsgm9stlh10jf7i58d& , https://www.reddit.com/r/MechanicalKeyboards/ 
 *YouTube*
-1 - https://www.youtube.com/user/Chyrosran22
-2 - https://www.youtube.com/channel/UCllGwtW6scxAjM28fIgEozg
-3 - https://www.youtube.com/user/FeelgHoodMusic
+ https://www.youtube.com/user/Chyrosran22 , https://www.youtube.com/channel/UCllGwtW6scxAjM28fIgEozg , https://www.youtube.com/user/FeelgHoodMusic
