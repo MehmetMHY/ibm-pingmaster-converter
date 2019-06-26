@@ -16,6 +16,10 @@ The Converter I made is a converter that you connect to the cable of the IBM Pin
   3) Wires or female to female/male cables
   4) (optional) 9-Pin VGA Female Head
 
+# Required Software (not much):
+  1) QMK ToolBox
+  2) *a web browser*
+
 # Steps:
 1) Wire up the Pro Mircro Board. You can wire it directly to the cable's pin using female to female/male cables or by using a 9-pin VGA Female Head. Look at the diagram below to for the wiring:
 
@@ -61,7 +65,6 @@ http://www.tmk-kbd.com/tmk_keyboard/editor/unimap/?ibm4704_usb_rev1_alps
 https://www.ebay.com/itm/IBM-Chinese-Lettering-Keyboard-Typing-102-Keyboard-Letter-Type-Model-6113442-NIB-/381019318430
 
 -Some good keyboard dicussion groups and keyboard contact creaters:
-
 *Dicussion:* 
 https://geekhack.org/index.php?PHPSESSID=lqmg2ap4h7trgpdsgm9stlh10jf7i58d& , https://www.reddit.com/r/MechanicalKeyboards/ ,
  *YouTube:* 
