@@ -41,31 +41,31 @@ The Converter I made is a converter that you connect to the cable of the IBM Pin
 
 8) Finally, after finishing all the steps, enjoy your IBM PingMaster!
 
-★If there are any errors/issues with this tutorial, please write about in the issue section for this repository. I am new to all this stuff so I most likly made a mistake somewhere.
+★ If there are any errors/issues with this tutorial, please write about in the issue section for this repository. I am new to all this stuff so I most likly made a mistake somewhere.
 
 # Useful links:
--Here is a good keycap testing website:
+- Here is a good keycap testing website:
 http://keyboardchecker.com/
 
--Here is a good YouTube tutorial for making the converter, but I am not a fan of how the Hex file was uploaded in this tutorial. But it is good for learning how to wire everything:
+- Here is a good YouTube tutorial for making the converter, but I am not a fan of how the Hex file was uploaded in this tutorial. But it is good for learning how to wire everything:
 https://www.youtube.com/watch?v=lIQO2AhBs8Q
 *There is also a Discord link provided by the description in this video. This Discord is useful for specific question if you have any.*
 
--Here is a good YouTube tutorial, for using QMK ToolBox that might be useful and the GitHub link for QMK ToolBox:
+- Here is a good YouTube tutorial, for using QMK ToolBox that might be useful and the GitHub link for QMK ToolBox:
 https://www.youtube.com/watch?v=VR53Wo9Z960
 https://github.com/qmk/qmk_toolbox
 
--Here is a guide by SparkFun for how to reset the Pro Micro Board:
+- Here is a guide by SparkFun for how to reset the Pro Micro Board:
 https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/troubleshooting-and-faq
 
--Here is the link to the TMK Keymap Editor for the IBM PingMaster layout:
+- Here is the link to the TMK Keymap Editor for the IBM PingMaster layout:
 http://www.tmk-kbd.com/tmk_keyboard/editor/unimap/?ibm4704_usb_rev1_alps
 
--Here is the eBay Seller that I bought the IBM PingMaster from during the Spring of 2019:
+- Here is the eBay Seller that I bought the IBM PingMaster from during the Spring of 2019:
 https://www.ebay.com/itm/IBM-Chinese-Lettering-Keyboard-Typing-102-Keyboard-Letter-Type-Model-6113442-NIB-/381019318430
 
--Some good keyboard dicussion groups and keyboard contact creaters:
-*Dicussion:* 
+- Some good keyboard dicussion groups and keyboard contact creaters:
+   *Dicussion:* 
 https://geekhack.org/index.php?PHPSESSID=lqmg2ap4h7trgpdsgm9stlh10jf7i58d& , https://www.reddit.com/r/MechanicalKeyboards/ ,
- *YouTube:* 
+   *YouTube:* 
 https://www.youtube.com/user/Chyrosran22 , https://www.youtube.com/channel/UCllGwtW6scxAjM28fIgEozg , https://www.youtube.com/user/FeelgHoodMusic
