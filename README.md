@@ -43,7 +43,7 @@ The Converter I made is a converter that you connect to the cable of the IBM Pin
 
 ★ If there are any errors/issues with this tutorial, please write about in the issue section for this repository. I am new to all this stuff so I most likly made a mistake somewhere.
 
-# Useful links:
+# Sources and Useful links That I used:
 - Here is a good keycap testing website:
 http://keyboardchecker.com/
 
