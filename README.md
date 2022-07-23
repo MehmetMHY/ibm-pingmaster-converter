@@ -1,8 +1,7 @@
 # IBM_PingMaster-Converter
-- Date: June 26, 2019
-- By:   Mehmet Yilmaz
+- Mehmet Yilmaz
 
-![image1](https://user-images.githubusercontent.com/15916367/60220638-f274b680-9833-11e9-83e8-e7d3813d3a03.jpg)
+<img width="600" alt="skr" src="./assets/keyboard.jpg">
 
 ## What is the IBM PingMaster?
 - The IBM PingMaster is a keyboard made by IBM during the 1980s for the Chinese and Japanese market. This keyboard uses vintage green switches and has a strange connection cable that is like a 9-pin VGA cable but with only 4-pins. Also, this keyboard has built in speakers and a volume numb for that speaker which allows you to determine the volume of the speaker as well as allow the keyboard to beep every time you hit a key. I have no idea why this beeping feature was made, but its unique and different. To learn more about this keyboard, just Google it or check out this video by Chyrosran22: https://www.youtube.com/watch?v=LfyOs694lpU.
@@ -30,7 +29,9 @@
 ## Steps:
 1) Wire up the Pro Mircro Board. You can wire it directly to the cable's pin using female to female/male cables or by using a 9-pin VGA Female Head. Look at the diagram below to for the wiring:
 
-![image2](https://user-images.githubusercontent.com/15916367/60220970-1389d700-9835-11e9-9c2d-37c970cc0075.png)
+<p align="center">
+  <img width="600" src="./assets/wiring.png">
+</p>
 
 2) After wiring everything up, create your Hex file. This hex file will be the layout of the keyboard which you can design though the following website: http://www.tmk-kbd.com/tmk_keyboard/editor/unimap/?ibm4704_usb_rev1_alps. So basically design you layout though this website, then download it.
 
@@ -40,7 +41,9 @@
 
 5) Before doing this step, dont connect your IBM PingMaster to your Pro Micro Board yet and read all of step 5 before doing it. After getting everything setup, plug your Pro Micro Board (from the micro usb cable) into your computer with the QMK Toolbox running. Then immediately reset your Pro Micro Board by short circuiting the board. To reset it, please look at the diagram below or SparkFun linked listed in *Useful links*. After reseting it, you MUST immediately hit the FLASH button in QMK Toolbox. If this works, you should get a *successful* message of some short. If this does not work. Redo step 5 again. If it keeps failing, please check out the *Useful links* below.
 
-![image3](https://user-images.githubusercontent.com/15916367/60221379-a4ad7d80-9836-11e9-9151-1e077da1dbf4.jpg)
+<p align="center">
+  <img width="350" src="./assets/pro_micro.jpg">
+</p>
 
 6) After step 5, connect your IBM PingMaster to your converter.
 
