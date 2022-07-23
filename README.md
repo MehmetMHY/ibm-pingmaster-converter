@@ -1,7 +1,10 @@
 # IBM_PingMaster-Converter
 - Mehmet Yilmaz
 
-<img width="600" alt="skr" src="./assets/keyboard.jpg">
+<p align="center">
+  <img width="600" src="./assets/keyboard.jpg">
+  <em>https://imgur.com/gallery/ljxUiev</em>
+</p>
 
 ## What is the IBM PingMaster?
 - The IBM PingMaster is a keyboard made by IBM during the 1980s for the Chinese and Japanese market. This keyboard uses vintage green switches and has a strange connection cable that is like a 9-pin VGA cable but with only 4-pins. Also, this keyboard has built in speakers and a volume numb for that speaker which allows you to determine the volume of the speaker as well as allow the keyboard to beep every time you hit a key. I have no idea why this beeping feature was made, but its unique and different. To learn more about this keyboard, just Google it or check out this video by Chyrosran22: https://www.youtube.com/watch?v=LfyOs694lpU.
