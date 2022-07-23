@@ -1,5 +1,4 @@
 # IBM_PingMaster-Converter
-- Mehmet Yilmaz
 
 <p align="center">
   <img width="600" src="./assets/keyboard.jpg">
