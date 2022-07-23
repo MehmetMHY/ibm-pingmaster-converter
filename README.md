@@ -3,7 +3,9 @@
 
 <p align="center">
   <img width="600" src="./assets/keyboard.jpg">
-  <em>Image's Source: https://imgur.com/gallery/ljxUiev</em>
+</p>
+<p align = "center">
+  <b>Above Image's Source:</b> <i>https://imgur.com/gallery/ljxUiev</i>
 </p>
 
 ## What is the IBM PingMaster?
