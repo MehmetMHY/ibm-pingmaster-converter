@@ -3,7 +3,6 @@
 - GitHub Link:	https://github.com/MehmetMHY/IBM_PingMaster-Converter
 - Last Update:	10-26-2019
 
-
 ### December 2018:
 - Gathered interest in the IBM PingMaster keyboard from YouTube Videos
 
